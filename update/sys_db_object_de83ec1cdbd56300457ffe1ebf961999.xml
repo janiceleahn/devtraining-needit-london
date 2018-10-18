@@ -32,7 +32,7 @@
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2018-10-17 19:09:49</sys_updated_on>
         <update_access>true</update_access>
-        <user_role display_value="x_58872_needit.needit_task_user" name="x_58872_needit.needit_task_user">8f8924cc4f1bb200a9e6f4934210c744</user_role>
+        <user_role/>
         <ws_access>true</ws_access>
     </sys_db_object>
 </record_update>

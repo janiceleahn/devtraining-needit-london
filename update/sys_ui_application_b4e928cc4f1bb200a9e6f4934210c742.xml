@@ -4,7 +4,7 @@
         <hint/>
         <name>NeedItTask</name>
         <order/>
-        <roles>x_58872_needit.needittask_user</roles>
+        <roles/>
         <sys_class_name>sys_ui_application</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-06-06 22:29:46</sys_created_on>
